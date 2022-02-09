@@ -11,7 +11,11 @@ Estuary
 ## Ejemplos de arte computacional
 PioneroAs
 
+Vera Molnar, Ness
+
 En México
+
+mU, JoseCaos, Leslie Gracía, RGTTRN
 
 ## Lenguajes de programación para sonido
 SuperCollider
@@ -20,3 +24,4 @@ TidalCycles
 
 PureData
 
+Sonic Pi
