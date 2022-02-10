@@ -8,20 +8,27 @@ Hydra
 Gibber
 
 Estuary
+
 ## Ejemplos de arte computacional
-PioneroAs
+PioneroAs: Vera Molnár, Ness
 
-Vera Molnar, Ness
-
-En México
-
-mU, JoseCaos, Leslie Gracía, RGTTRN
+En México: mU, JoseCaos, Leslie Gracía, RGTTRN
 
 ## Lenguajes de programación para sonido
-SuperCollider
+SuperCollider: sonido y música en general.
 
-TidalCycles
+TidalCycles: live coding con patrones.
 
-PureData
+PureData: programación gráfica de sonido (e imagen).
 
-Sonic Pi
+Sonic Pi: instrumento musical basado en código.
+
+## Desarrallo tecnológico por artístas e investigadoreAs audiovisuales
+INSTRUMENT por punksnotdev aka Furenku
+
+MIRLCa por Anna Xambó
+
+Sesis8 por Luis Navarro
+
+## Programación web
+w3: para aprender a programar en la web https://www.w3schools.com/
