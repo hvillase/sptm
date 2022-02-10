@@ -5,7 +5,7 @@ Hernani Villaseñor, Doctorado en Tecnología Musical
 
 http://www.hernanivillasenor.com/
 ## Programas en línea
-p5.js https://p5js.org/es/learn/
+p5.js https://p5js.org/es/
 
 Hydra https://hydra.ojack.xyz/
 
@@ -37,7 +37,7 @@ En México: [mU](https://sites.google.com/site/tallerdeaudio/mu), [joseCaos](htt
 [sesi8s](https://github.com/luisnavarrodelangel/seis8s) por Luis Navarro
 
 ## Programación web
-w3: para aprender a programar en la web https://www.w3schools.com/
+w3schools: para aprender a programar en la web https://www.w3schools.com/
 
 ## Referencias en wikipedia
 Live coding (entrada en español y orientada a Latinoamérica): práctica artística de programación en el momento https://es.wikipedia.org/wiki/Live_coding
