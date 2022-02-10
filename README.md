@@ -1,5 +1,9 @@
 # sptm
 Presentación del 10 de febrero de 2022 en el Seminario Permanente de Tecnología Musical, Fam UNAM
+
+Hernani Villaseñor, Doctorado en Tecnología Musical
+
+http://www.hernanivillasenor.com/
 ## Programas en línea
 p5.js https://p5js.org/es/learn/
 
@@ -14,30 +18,28 @@ Nota: algunos softwares en red dedicados a la programación audiovisual a veces 
 ## Ejemplos de arte computacional
 PioneroAs: [Vera Molnár](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r), [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees)
 
-En México: mU, JoseCaos, Leslie Gracía, RGTTRN
+En México: [mU](https://sites.google.com/site/tallerdeaudio/mu), [joseCaos](https://josecaos.bandcamp.com/album/xibalba), [Leslie Gracía](http://lessnullvoid.cc/content/), [RGTTRN](https://rggtrn.github.io/), [Yotzin Querrá](https://soundcloud.com/querrante)
 
 ## Lenguajes de programación para sonido
-SuperCollider: sonido y música en general.
+[SuperCollider](https://supercollider.github.io/): sonido y música en general.
 
-TidalCycles: live coding con patrones.
+[TidalCycles](https://tidalcycles.org/): live coding con patrones.
 
-PureData: programación gráfica de sonido (e imagen).
+[PureData](https://puredata.info/): programación gráfica de sonido (e imagen).
 
-Sonic Pi: instrumento musical basado en código.
+[Sonic Pi](https://sonic-pi.net/): instrumento musical basado en código.
 
 ## Desarrallo tecnológico por artístas e investigadoreAs audiovisuales
-INSTRUMENT por punksnotdev aka Furenku
+[INSTRUMENT](https://github.com/punksnotdev/INSTRUMENT) por punksnotdev aka Furenku
 
-MIRLCa por Anna Xambó
+[MIRLCa](https://mirlca.dmu.ac.uk/) por Anna Xambó
 
-Sesis8 por Luis Navarro
+[sesi8s](https://github.com/luisnavarrodelangel/seis8s) por Luis Navarro
 
 ## Programación web
 w3: para aprender a programar en la web https://www.w3schools.com/
 
 ## Referencias en wikipedia
 Live coding (entrada en español y orientada a Latinoamérica): práctica artística de programación en el momento https://es.wikipedia.org/wiki/Live_coding
-
-Vera Molnár: artista visual pionera en arte computacional https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r
 
 Arquitectura de Von Neumann: cómo está diseñada una computadora moderna https://es.wikipedia.org/wiki/Arquitectura_de_Von_Neumann 
