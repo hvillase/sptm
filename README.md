@@ -12,7 +12,7 @@ Estuary https://estuary.mcmaster.ca/
 Nota: algunos softwares en red dedicados a la programación audiovisual a veces funcionan mejor en Chrome o Chromium por la implementaciones que contienen.
 
 ## Ejemplos de arte computacional
-PioneroAs: [Vera Molnár] (https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r), [Georg Nees] (https://en.wikipedia.org/wiki/Georg_Nees)
+PioneroAs: [Vera Molnár](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r), [Georg Nees](https://en.wikipedia.org/wiki/Georg_Nees)
 
 En México: mU, JoseCaos, Leslie Gracía, RGTTRN
 
