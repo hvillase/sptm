@@ -1,13 +1,15 @@
 # sptm
 Presentación del 10 de febrero de 2022 en el Seminario Permanente de Tecnología Musical, Fam UNAM
 ## Programas en línea
-p5.js
+p5.js https://p5js.org/es/learn/
 
-Hydra
+Hydra https://hydra.ojack.xyz/
 
-Gibber
+Gibber https://gibber.cc/
 
-Estuary
+Estuary https://estuary.mcmaster.ca/
+
+Nota: algunos softwares en red dedicados a la programación audiovisual a veces funcionan mejor en Chrome o Chromium por la implementaciones que contienen.
 
 ## Ejemplos de arte computacional
 PioneroAs: Vera Molnár, Ness
